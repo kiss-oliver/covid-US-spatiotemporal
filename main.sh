@@ -2,7 +2,6 @@ virtualenv env -p python3
 . env/bin/activate
 mkdir data
 mkdir temp
-mkdir temp/embeddings
 
 pip3 install karateclub
 pip3 install pandas
