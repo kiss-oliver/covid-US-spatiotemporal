@@ -1,5 +1,5 @@
-# Covid US Spatial
-This repository contains codes that compile the Covid US Spatial dataset. It relies on the following sources:
+# Covid US Spatiotemporal
+This repository contains codes that compile the Covid US Spatiotemporal dataset. It relies on the following sources:
 
 ## Neighborhood data of US counties
 This data comes from the [US Census Bureau](https://www.census.gov/geographies/reference-files/2010/geo/county-adjacency.html).
