@@ -15,5 +15,5 @@ wget https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip
 unzip Region_Mobility_Report_CSVs.zip
 cd ..
 
-python3 neighborhood_to_nx.py
+python3 generate_data.py
 
