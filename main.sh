@@ -3,8 +3,7 @@ virtualenv env -p python3
 mkdir data
 mkdir temp
 
-pip3 install karateclub
-pip3 install pandas
+pip3 install -r requirements.txt
 cd data
 wget https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv
 wget https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv
